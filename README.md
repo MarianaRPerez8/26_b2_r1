@@ -41,3 +41,7 @@ GET BY EMAIL
  ![alt text](image-16.png)
  DELET
  ![alt text](image-17.png)
+
+ se ejecutan pruebas finales
+![alt text](image-18.png)
+![alt text](image-19.png)
